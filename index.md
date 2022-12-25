@@ -21,7 +21,7 @@ I liked sketching in childhood, but I was never so good at it. Although drawing 
 * Embedded node that controls the servo motors to move the robotic arm.
 
 <p align='center'>
-  <img src='/images/1.gif'>
+  <img src='images/1.gif'>
 </p>
 <p align='center'>
     Spark version 1.0 in action
@@ -36,14 +36,14 @@ I liked sketching in childhood, but I was never so good at it. Although drawing 
 * Closed loop control node publishes the motor angles, which are subscribed by the embedded node.
 
 <p align='center'>
-  <img src='/images/spark-pid1.gif'>
+  <img src='images/spark-pid1.gif'>
 </p>
 <p align='center'>
     Results for P controller
 </p>
 
 <p align='center'>
-  <img src='/images/2.gif'>
+  <img src='images/2.gif'>
 </p>
 <p align='center'>
     Results for PD controller
@@ -58,14 +58,14 @@ I liked sketching in childhood, but I was never so good at it. Although drawing 
 * Draw mode feature to simulate various drawing algorithms.
 
 <p align='center'>
-  <img src='/images/3.gif'>
+  <img src='images/3.gif'>
 </p>
 <p align='center'>
   Shadow mode feature of the simulator
 </p>
 
 <p align='center'>
-  <img src='/images/spark1.gif'>
+  <img src='images/spark1.gif'>
 </p>
 <p align='center'>
   Draw mode feature showing contour based drawing algorithm
